@@ -1,0 +1,10 @@
+animal = "  hyrax rebelde  "
+print(animal.upper())
+print(animal.lower())
+print(animal.strip().capitalize())
+print(animal.title())
+print(animal.strip())
+print(animal.rstrip())
+print(animal.lstrip())
+print(animal.find("yr"))
+print(animal.replace("rebelde", "imparable"))
